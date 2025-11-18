@@ -38,7 +38,7 @@ const Booking: React.FC<bookingProps> = ({ order, setOrder }) => {
           flexDirection: "column",
           backgroundSize: "cover",
           alignItems: "center",
-          height: "100%",
+          height: "100vh",
         }}
       >
         <h1>Your Booking Summary</h1>
